@@ -5,3 +5,5 @@ xgboost
 lightgbm
 mlflow
 jupyter
+joblib
+pytest
