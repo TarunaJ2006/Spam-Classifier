@@ -42,11 +42,6 @@ jupyter notebook "SPAM CLASSIFICATION FINAL.ipynb"
 
 4. For reproducible inference, export the vectorizer and model objects (see notebook) and use a small inference wrapper that accepts newline-delimited text and emits JSONL predictions.
 
-## How to include this project on a CV
-
-Suggested bullet for a CV:
-
-"Developed a high-precision spam detection pipeline using advanced text featurization (TF-IDF, char n-grams, heuristic features) and stacking ensembles; implemented stratified cross-validation, post-hoc calibration, and reproducible experiment logging in a comprehensive Jupyter notebook."
 
 ## Repository
 
