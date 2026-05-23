@@ -47,12 +47,3 @@ jupyter notebook "SPAM CLASSIFICATION FINAL.ipynb"
 
 Remote: https://github.com/TarunaJ2006/Spam-Classifier
 
-## Next suggested steps
-
-- Add `src/` with lightweight inference utilities and a CLI (`infer.py`) to produce JSONL outputs for production evaluation.
-- Add GitHub Actions to run linting and unit tests on push.
-- Add CI that runs a small smoke test to verify notebook kernels and imports.
-
----
-
-If you'd like, I can add a compact `infer.py` and a lightweight test/CI workflow next.
